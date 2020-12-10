@@ -1,2 +1,2 @@
-# LSTM_DONT_WORK
-This is a toy project trying to demonstrate that LSTM with regression type of loss function for won't create tradable signals for stocks. 
+# LSTM PREDICT RETURNS
+Instead of predicting prices as most people do, I will try to use LSTM to predict returns in this toy data.
